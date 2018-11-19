@@ -2,7 +2,7 @@
 Documentation for AssurBox
 
 Start here :
-(http://assurbox.net/developers/)
+[AssurBox Documentation](http://assurbox.net/developers/)
 
 Api documentation (swagger based) :
-http://assurbox.net/api-documentation/
+[Api doc](http://assurbox.net/api-documentation/)
