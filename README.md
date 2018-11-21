@@ -15,11 +15,11 @@ NuGet Package:
 
 [AssurBox Sandbox](https://sandbox.assurbox.net)
 
-[PHP Dealership](https://assurboxphpclient.azurewebsites.net)
+[PHP Dealership simulation](https://assurboxphpclient.azurewebsites.net)
 
-[ASP.NET Dealership](http://sandbox-dealership.assurbox.net/)
+[ASP.NET Dealership simulation](http://sandbox-dealership.assurbox.net/)
 
-[ASP.NET Insurance](http://sandbox-insurer-simulation.assurbox.net/)
+[ASP.NET Insurance simulation](http://sandbox-insurer-simulation.assurbox.net/)
 
 
 
